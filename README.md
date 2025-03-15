@@ -3,9 +3,9 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hans-gabriel-feliciano) (https://linkedin.com/in/hans-gabriel-feliciano )<br>
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hansgabriel.feliciano@edu.sait.ca) (hansgabriel.feliciano@edu.sait.ca) <br>
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hgvfeliciano10@gmail.com) (hgvfeliciano10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hans-gabriel-feliciano) https://linkedin.com/in/hans-gabriel-feliciano <br>
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hansgabriel.feliciano@edu.sait.ca) hansgabriel.feliciano@edu.sait.ca <br>
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hgvfeliciano10@gmail.com) hgvfeliciano10@gmail.com
 
 
 # 💻 Tech Stack:
