@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 Software Development Student @ Southern Alberta Institute of Technology (SAIT) <br>💼 Former Product Owner @ Accenture <br>🕸️ Aspiring Full-stack developer and 🤖 Data Analytics / Machine Learning Engineer<br>✈️ Passionate about 🏫 Language learning, ⚽ Sports, ♟️Chess and 👊MMA<br><br>
+🧑‍💻 Software Development Student @ Southern Alberta Institute of Technology (SAIT) <br>💼 Former Product Owner @ Accenture <br>🕸️ Aspiring Full-stack Developer and 🤖 Data Analytics / Machine Learning Engineer<br>✈️ Passionate about 🏫 Language learning, ⚽ Sports, ♟️Chess and 👊MMA<br><br>
 
 
 ## 🌐 Socials:
